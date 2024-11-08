@@ -1,4 +1,4 @@
-<h2 align="center">Hello World</h2>
+<h2 align="center">Hello World 👋 </h2>
 <h3 align="center">My name is Prasham Yadothare, a high school student who is obsessed with STEM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superiorcave&label=Profile%20views&color=0e75b6&style=flat" alt="superiorcave" /> </p>
