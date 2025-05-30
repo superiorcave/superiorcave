@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superiorcave&label=Profile%20views&color=0e75b6&style=flat" alt="superiorcave" /> </p>
 
 - 🛠️ I’m currently on the FTC TEAM [RoboRacers #16481](https://ftcscout.org/teams/16481)
-
-- 🌱 I’m currently learning **sensor fusion & filters**
+- Please feel free to contact me below, especially when asking about FTC, using sensor, or raspberry pi
+- 🌱 I’m currently learning **about kalman filters and custom path followers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
